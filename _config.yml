@@ -3,7 +3,7 @@ title: Spatial R
 email: ekt.batey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My project repository working with spatial data and maps in R
-baseurl: "/spatial/" # the subpath of your site, e.g. /blog/
+baseurl: "/spatial" # the subpath of your site, e.g. /blog/
 url: "http://tbatey.org" # the base hostname & protocol for your site
 twitter_username: bateytk
 github_username:  bateyt
